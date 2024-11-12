@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aula 03.iml" filepath="$PROJECT_DIR$/.idea/Aula 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex1/ex1.iml" filepath="$PROJECT_DIR$/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex10/ex10.iml" filepath="$PROJECT_DIR$/ex10/ex10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex10/ex101.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex10/ex101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex11/ex11.iml" filepath="$PROJECT_DIR$/ex11/ex11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex1/ex110.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex1/ex110.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex11/ex111.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex11/ex111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex12/ex12.iml" filepath="$PROJECT_DIR$/ex12/ex12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex12/ex121.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex12/ex121.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex13/ex13.iml" filepath="$PROJECT_DIR$/ex13/ex13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex13/ex131.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex13/ex131.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex14/ex14.iml" filepath="$PROJECT_DIR$/ex14/ex14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex14/ex141.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex14/ex141.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex15/ex15.iml" filepath="$PROJECT_DIR$/ex15/ex15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex15/ex151.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex15/ex151.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex16/ex16.iml" filepath="$PROJECT_DIR$/ex16/ex16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex16/ex161.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex16/ex161.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex17/ex17.iml" filepath="$PROJECT_DIR$/ex17/ex17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex17/ex171.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex17/ex171.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex18/ex18.iml" filepath="$PROJECT_DIR$/ex18/ex18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex18/ex181.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex18/ex181.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex19/ex19.iml" filepath="$PROJECT_DIR$/ex19/ex19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex19/ex191.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex19/ex191.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex2/ex2.iml" filepath="$PROJECT_DIR$/ex2/ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex20/ex20.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex20/ex20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex20/ex201.iml" filepath="$PROJECT_DIR$/ex20/ex201.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex2/ex21.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex2/ex21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex3/ex3.iml" filepath="$PROJECT_DIR$/ex3/ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex3/ex31.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex3/ex31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex4/ex4.iml" filepath="$PROJECT_DIR$/ex4/ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex4/ex41.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex4/ex41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex5/ex5.iml" filepath="$PROJECT_DIR$/ex5/ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex5/ex51.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex5/ex51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex6/ex6.iml" filepath="$PROJECT_DIR$/ex6/ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex6/ex61.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex6/ex61.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex7/ex7.iml" filepath="$PROJECT_DIR$/ex7/ex7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex7/ex71.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex7/ex71.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex8/ex8.iml" filepath="$PROJECT_DIR$/ex8/ex8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex8/ex81.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex8/ex81.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex9/ex9.iml" filepath="$PROJECT_DIR$/ex9/ex9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_3_Java/ex9/ex91.iml" filepath="$PROJECT_DIR$/Lista_3_Java/ex9/ex91.iml" />
+    </modules>
+  </component>
+</project>
